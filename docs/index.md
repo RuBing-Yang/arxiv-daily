@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.16
+## Updated on 2025.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4943,6 +4943,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Advancing Retrieval-Augmented Generation for Structured Enterprise and Internal Data**|Chandana Cheerla et.al.|[2507.12425](http://arxiv.org/abs/2507.12425)|null|
+|**2025-07-16**|**Quantize More, Lose Less: Autoregressive Generation from Residually Quantized Speech Representations**|Yichen Han et.al.|[2507.12197](http://arxiv.org/abs/2507.12197)|null|
+|**2025-07-16**|**Selective Quantization Tuning for ONNX Models**|Nikolaos Louloudakis et.al.|[2507.12196](http://arxiv.org/abs/2507.12196)|null|
+|**2025-07-16**|**Local control of parity and charge in nanoscale superconducting lead islands**|Stefano Trivini et.al.|[2507.12150](http://arxiv.org/abs/2507.12150)|null|
+|**2025-07-16**|**MoViAD: Modular Visual Anomaly Detection**|Manuel Barusco et.al.|[2507.12049](http://arxiv.org/abs/2507.12049)|null|
+|**2025-07-16**|**Berry Monopole Scattering in the Synthetic Momentum Space of a Bilayer Photonic Crystal Slab**|Ngoc Duc Le et.al.|[2507.11983](http://arxiv.org/abs/2507.11983)|null|
+|**2025-07-16**|**Pseudodifferential Weyl calculus on vector bundles**|Lars Andersson et.al.|[2507.11965](http://arxiv.org/abs/2507.11965)|null|
+|**2025-07-16**|**PoTPTQ: A Two-step Power-of-Two Post-training for LLMs**|Xinyu Wang et.al.|[2507.11959](http://arxiv.org/abs/2507.11959)|null|
+|**2025-07-16**|**Quantum oscillations of valley current driven by microwave irradiation in transition-metal dichalcogenide/ferromagnet hybrids**|Xin Hu et.al.|[2507.11934](http://arxiv.org/abs/2507.11934)|null|
+|**2025-07-15**|**Notions of Adiabatic Drift in the Quantized Harper model**|Alice C. Quillen et.al.|[2507.11696](http://arxiv.org/abs/2507.11696)|null|
 |**2025-07-15**|**Second Quantization for the Kepler Problem**|John C. Baez et.al.|[2507.11428](http://arxiv.org/abs/2507.11428)|null|
 |**2025-07-15**|**Volcano-Like Ferroic Transitions Deviating from the Model of Landau Theory**|Yuxuan Sheng et.al.|[2507.11409](http://arxiv.org/abs/2507.11409)|null|
 |**2025-07-15**|**Performance Bounds of Ranging Precision in SPAD-Based dToF LiDAR**|Hao Wu et.al.|[2507.11404](http://arxiv.org/abs/2507.11404)|null|
@@ -4992,6 +5002,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-16**|**Describe Anything Model for Visual Question Answering on Text-rich Images**|Yen-Linh Vu et.al.|[2507.12441](http://arxiv.org/abs/2507.12441)|null|
+|**2025-07-16**|**Can We Predict Alignment Before Models Finish Thinking? Towards Monitoring Misaligned Reasoning Models**|Yik Siu Chan et.al.|[2507.12428](http://arxiv.org/abs/2507.12428)|null|
+|**2025-07-16**|**Assessing the Value of Visual Input: A Benchmark of Multimodal Large Language Models for Robotic Path Planning**|Jacinto Colan et.al.|[2507.12391](http://arxiv.org/abs/2507.12391)|null|
+|**2025-07-16**|**Probing for Arithmetic Errors in Language Models**|Yucheng Sun et.al.|[2507.12379](http://arxiv.org/abs/2507.12379)|null|
+|**2025-07-16**|**Web-Browsing LLMs Can Access Social Media Profiles and Infer User Demographics**|Meysam Alizadeh et.al.|[2507.12372](http://arxiv.org/abs/2507.12372)|null|
+|**2025-07-16**|**FactorHD: A Hyperdimensional Computing Model for Multi-Object Multi-Class Representation and Factorization**|Yifei Zhou et.al.|[2507.12366](http://arxiv.org/abs/2507.12366)|null|
+|**2025-07-16**|**Rethinking the confidential cloud through a unified low-level abstraction for composable isolation**|Adrien Ghosn et.al.|[2507.12364](http://arxiv.org/abs/2507.12364)|null|
+|**2025-07-16**|**A modal approach towards substitutions**|Yaxin Tu et.al.|[2507.12320](http://arxiv.org/abs/2507.12320)|null|
+|**2025-07-16**|**Thought Purity: Defense Paradigm For Chain-of-Thought Attack**|Zihao Xue et.al.|[2507.12314](http://arxiv.org/abs/2507.12314)|null|
+|**2025-07-16**|**MERA Code: A Unified Framework for Evaluating Code Generation Across Tasks**|Artem Chervyakov et.al.|[2507.12284](http://arxiv.org/abs/2507.12284)|null|
 |**2025-07-15**|**How Many Instructions Can LLMs Follow at Once?**|Daniel Jaroslawicz et.al.|[2507.11538](http://arxiv.org/abs/2507.11538)|null|
 |**2025-07-15**|**DrafterBench: Benchmarking Large Language Models for Tasks Automation in Civil Engineering**|Yinsheng Li et.al.|[2507.11527](http://arxiv.org/abs/2507.11527)|null|
 |**2025-07-15**|**Modeling Code: Is Text All You Need?**|Daniel Nichols et.al.|[2507.11467](http://arxiv.org/abs/2507.11467)|null|
@@ -5048,7 +5068,7 @@ layout: default
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
 |**2025-07-15**|**Streaming 4D Visual Geometry Transformer**|Dong Zhuo et.al.|[2507.11539](http://arxiv.org/abs/2507.11539)|null|
-|**2025-07-15**|**Automated Novelty Evaluation of Academic Paper: A Collaborative Approach Integrating Human and Large Language Model Knowledge**|Wenqing Wu et.al.|[2507.11330](http://arxiv.org/abs/2507.11330)|null|
+|**2025-07-16**|**Automated Novelty Evaluation of Academic Paper: A Collaborative Approach Integrating Human and Large Language Model Knowledge**|Wenqing Wu et.al.|[2507.11330](http://arxiv.org/abs/2507.11330)|null|
 |**2025-07-14**|**GeoHopNet: Hopfield-Augmented Sparse Spatial Attention for Dynamic UAV Site Location Problem**|Jianing Zhi et.al.|[2507.10636](http://arxiv.org/abs/2507.10636)|null|
 |**2025-07-13**|**Dynamic Sparse Causal-Attention Temporal Networks for Interpretable Causality Discovery in Multivariate Time Series**|Meriem Zerkouk et.al.|[2507.09439](http://arxiv.org/abs/2507.09439)|null|
 |**2025-07-11**|**BlindSight: Harnessing Sparsity for Efficient VLMs**|Tharun Adithya Srikrishnan et.al.|[2507.09071](http://arxiv.org/abs/2507.09071)|null|

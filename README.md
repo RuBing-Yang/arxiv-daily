@@ -1,4 +1,4 @@
-## Updated on 2025.07.16
+## Updated on 2025.07.17
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1012,7 +1012,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## SFM
 
@@ -1449,7 +1449,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2646,7 +2646,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2963,7 +2963,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## Image Matching
 
@@ -3312,7 +3312,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## NeRF
 
@@ -4961,12 +4961,22 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## Quantization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**Advancing Retrieval-Augmented Generation for Structured Enterprise and Internal Data**|Chandana Cheerla et.al.|[2507.12425](http://arxiv.org/abs/2507.12425)|null|
+|**2025-07-16**|**Quantize More, Lose Less: Autoregressive Generation from Residually Quantized Speech Representations**|Yichen Han et.al.|[2507.12197](http://arxiv.org/abs/2507.12197)|null|
+|**2025-07-16**|**Selective Quantization Tuning for ONNX Models**|Nikolaos Louloudakis et.al.|[2507.12196](http://arxiv.org/abs/2507.12196)|null|
+|**2025-07-16**|**Local control of parity and charge in nanoscale superconducting lead islands**|Stefano Trivini et.al.|[2507.12150](http://arxiv.org/abs/2507.12150)|null|
+|**2025-07-16**|**MoViAD: Modular Visual Anomaly Detection**|Manuel Barusco et.al.|[2507.12049](http://arxiv.org/abs/2507.12049)|null|
+|**2025-07-16**|**Berry Monopole Scattering in the Synthetic Momentum Space of a Bilayer Photonic Crystal Slab**|Ngoc Duc Le et.al.|[2507.11983](http://arxiv.org/abs/2507.11983)|null|
+|**2025-07-16**|**Pseudodifferential Weyl calculus on vector bundles**|Lars Andersson et.al.|[2507.11965](http://arxiv.org/abs/2507.11965)|null|
+|**2025-07-16**|**PoTPTQ: A Two-step Power-of-Two Post-training for LLMs**|Xinyu Wang et.al.|[2507.11959](http://arxiv.org/abs/2507.11959)|null|
+|**2025-07-16**|**Quantum oscillations of valley current driven by microwave irradiation in transition-metal dichalcogenide/ferromagnet hybrids**|Xin Hu et.al.|[2507.11934](http://arxiv.org/abs/2507.11934)|null|
+|**2025-07-15**|**Notions of Adiabatic Drift in the Quantized Harper model**|Alice C. Quillen et.al.|[2507.11696](http://arxiv.org/abs/2507.11696)|null|
 |**2025-07-15**|**Second Quantization for the Kepler Problem**|John C. Baez et.al.|[2507.11428](http://arxiv.org/abs/2507.11428)|null|
 |**2025-07-15**|**Volcano-Like Ferroic Transitions Deviating from the Model of Landau Theory**|Yuxuan Sheng et.al.|[2507.11409](http://arxiv.org/abs/2507.11409)|null|
 |**2025-07-15**|**Performance Bounds of Ranging Precision in SPAD-Based dToF LiDAR**|Hao Wu et.al.|[2507.11404](http://arxiv.org/abs/2507.11404)|null|
@@ -5012,12 +5022,22 @@
 |**2025-07-08**|**Sample-Efficient Reinforcement Learning Controller for Deep Brain Stimulation in Parkinson's Disease**|Harsh Ravivarapu et.al.|[2507.06326](http://arxiv.org/abs/2507.06326)|null|
 |**2025-07-08**|**QS4D: Quantization-aware training for efficient hardware deployment of structured state-space sequential models**|Sebastian Siegel et.al.|[2507.06079](http://arxiv.org/abs/2507.06079)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## Think Exit
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-16**|**Describe Anything Model for Visual Question Answering on Text-rich Images**|Yen-Linh Vu et.al.|[2507.12441](http://arxiv.org/abs/2507.12441)|null|
+|**2025-07-16**|**Can We Predict Alignment Before Models Finish Thinking? Towards Monitoring Misaligned Reasoning Models**|Yik Siu Chan et.al.|[2507.12428](http://arxiv.org/abs/2507.12428)|null|
+|**2025-07-16**|**Assessing the Value of Visual Input: A Benchmark of Multimodal Large Language Models for Robotic Path Planning**|Jacinto Colan et.al.|[2507.12391](http://arxiv.org/abs/2507.12391)|null|
+|**2025-07-16**|**Probing for Arithmetic Errors in Language Models**|Yucheng Sun et.al.|[2507.12379](http://arxiv.org/abs/2507.12379)|null|
+|**2025-07-16**|**Web-Browsing LLMs Can Access Social Media Profiles and Infer User Demographics**|Meysam Alizadeh et.al.|[2507.12372](http://arxiv.org/abs/2507.12372)|null|
+|**2025-07-16**|**FactorHD: A Hyperdimensional Computing Model for Multi-Object Multi-Class Representation and Factorization**|Yifei Zhou et.al.|[2507.12366](http://arxiv.org/abs/2507.12366)|null|
+|**2025-07-16**|**Rethinking the confidential cloud through a unified low-level abstraction for composable isolation**|Adrien Ghosn et.al.|[2507.12364](http://arxiv.org/abs/2507.12364)|null|
+|**2025-07-16**|**A modal approach towards substitutions**|Yaxin Tu et.al.|[2507.12320](http://arxiv.org/abs/2507.12320)|null|
+|**2025-07-16**|**Thought Purity: Defense Paradigm For Chain-of-Thought Attack**|Zihao Xue et.al.|[2507.12314](http://arxiv.org/abs/2507.12314)|null|
+|**2025-07-16**|**MERA Code: A Unified Framework for Evaluating Code Generation Across Tasks**|Artem Chervyakov et.al.|[2507.12284](http://arxiv.org/abs/2507.12284)|null|
 |**2025-07-15**|**How Many Instructions Can LLMs Follow at Once?**|Daniel Jaroslawicz et.al.|[2507.11538](http://arxiv.org/abs/2507.11538)|null|
 |**2025-07-15**|**DrafterBench: Benchmarking Large Language Models for Tasks Automation in Civil Engineering**|Yinsheng Li et.al.|[2507.11527](http://arxiv.org/abs/2507.11527)|null|
 |**2025-07-15**|**Modeling Code: Is Text All You Need?**|Daniel Nichols et.al.|[2507.11467](http://arxiv.org/abs/2507.11467)|null|
@@ -5069,14 +5089,14 @@
 |**2025-07-09**|**MIND: A Multi-agent Framework for Zero-shot Harmful Meme Detection**|Ziyan Liu et.al.|[2507.06908](http://arxiv.org/abs/2507.06908)|null|
 |**2025-07-10**|**Squeeze the Soaked Sponge: Efficient Off-policy Reinforcement Finetuning for Large Language Model**|Jing Liang et.al.|[2507.06892](http://arxiv.org/abs/2507.06892)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## Sparse Attention
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-07-15**|**Streaming 4D Visual Geometry Transformer**|Dong Zhuo et.al.|[2507.11539](http://arxiv.org/abs/2507.11539)|null|
-|**2025-07-15**|**Automated Novelty Evaluation of Academic Paper: A Collaborative Approach Integrating Human and Large Language Model Knowledge**|Wenqing Wu et.al.|[2507.11330](http://arxiv.org/abs/2507.11330)|null|
+|**2025-07-16**|**Automated Novelty Evaluation of Academic Paper: A Collaborative Approach Integrating Human and Large Language Model Knowledge**|Wenqing Wu et.al.|[2507.11330](http://arxiv.org/abs/2507.11330)|null|
 |**2025-07-14**|**GeoHopNet: Hopfield-Augmented Sparse Spatial Attention for Dynamic UAV Site Location Problem**|Jianing Zhi et.al.|[2507.10636](http://arxiv.org/abs/2507.10636)|null|
 |**2025-07-13**|**Dynamic Sparse Causal-Attention Temporal Networks for Interpretable Causality Discovery in Multivariate Time Series**|Meriem Zerkouk et.al.|[2507.09439](http://arxiv.org/abs/2507.09439)|null|
 |**2025-07-11**|**BlindSight: Harnessing Sparsity for Efficient VLMs**|Tharun Adithya Srikrishnan et.al.|[2507.09071](http://arxiv.org/abs/2507.09071)|null|
@@ -5094,7 +5114,7 @@
 |**2025-06-26**|**FOCUS: Internal MLLM Representations for Efficient Fine-Grained Visual Question Answering**|Liangyu Zhong et.al.|[2506.21710](http://arxiv.org/abs/2506.21710)|null|
 |**2025-07-08**|**IPFormer-VideoLLM: Enhancing Multi-modal Video Understanding for Multi-shot Scenes**|Yujia Liang et.al.|[2506.21116](http://arxiv.org/abs/2506.21116)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 ## LLM Inference Acceleration
 
@@ -5113,7 +5133,7 @@
 |**2025-06-19**|**DiffO: Single-step Diffusion for Image Compression at Ultra-Low Bitrates**|Chanung Park et.al.|[2506.16572](http://arxiv.org/abs/2506.16572)|**[link](https://github.com/freemasti/diffo)**|
 |**2025-06-19**|**Fast Training-free Perceptual Image Compression**|Ziran Zhu et.al.|[2506.16102](http://arxiv.org/abs/2506.16102)|null|
 
-<p align=right>(<a href=#updated-on-20250716>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250717>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
