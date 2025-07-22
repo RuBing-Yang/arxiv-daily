@@ -1,4 +1,4 @@
-## Updated on 2025.07.21
+## Updated on 2025.07.22
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -1012,7 +1012,7 @@
 |**2021-10-03**|**Quadrotor Control on $SU(2)\times R^3$ with SLAM Integration**|Marcus Greiff et.al.|[2110.01099](http://arxiv.org/abs/2110.01099)|null|
 |**2021-10-02**|**Online Incremental Non-Gaussian Inference for SLAM Using Normalizing Flows**|Qiangqiang Huang et.al.|[2110.00876](http://arxiv.org/abs/2110.00876)|**[link](https://github.com/marineroboticsgroup/nf-isam)**|
 
-<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 ## SFM
 
@@ -1449,7 +1449,7 @@
 |**2021-08-29**|**Solving Viewing Graph Optimization for Simultaneous Position and Rotation Registration**|Seyed-Mahdi Nasiri et.al.|[2108.12876](http://arxiv.org/abs/2108.12876)|null|
 |**2021-08-23**|**Burst Imaging for Light-Constrained Structure-From-Motion**|Ahalya Ravendran et.al.|[2108.09895](http://arxiv.org/abs/2108.09895)|null|
 
-<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 ## Visual Localization
 
@@ -2646,7 +2646,7 @@
 |**2021-09-09**|**CrowdDriven: A New Challenging Dataset for Outdoor Visual Localization**|Ara Jafarzadeh et.al.|[2109.04527](http://arxiv.org/abs/2109.04527)|null|
 |**2021-09-09**|**Keeping an Eye on Things: Deep Learned Features for Long-Term Visual Localization**|Mona Gridseth et.al.|[2109.04041](http://arxiv.org/abs/2109.04041)|**[link](https://github.com/utiasasrl/deep_learned_visual_features)**|
 
-<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 ## Keypoint Detection
 
@@ -2963,7 +2963,7 @@
 |**2021-08-31**|**A Novel Dataset for Keypoint Detection of quadruped Animals from Images**|Prianka Banik et.al.|[2108.13958](http://arxiv.org/abs/2108.13958)|**[link](https://github.com/prinik/awa-pose)**|
 |**2021-08-27**|**A Matching Algorithm based on Image Attribute Transfer and Local Features for Underwater Acoustic and Optical Images**|Xiaoteng Zhou et.al.|[2108.12151](http://arxiv.org/abs/2108.12151)|null|
 
-<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 ## Image Matching
 
@@ -3312,7 +3312,7 @@
 |**2021-08-27**|**Matching Underwater Sonar Images by the Learned Descriptor Based on Style Transfer Method**|Xiaoteng Zhou et.al.|[2108.12072](http://arxiv.org/abs/2108.12072)|null|
 |**2021-08-26**|**Efficient Joint Object Matching via Linear Programming**|Antonio De Rosa et.al.|[2108.11911](http://arxiv.org/abs/2108.11911)|null|
 
-<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 ## NeRF
 
@@ -4961,12 +4961,22 @@
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
-<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 ## Quantization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**'t Hooft Anomalies and Defect Conformal Manifolds: Topological Signatures from Modulated Effective Actions**|Christian Copetti et.al.|[2507.15466](http://arxiv.org/abs/2507.15466)|null|
+|**2025-07-21**|**$Q$-operators, $q$-opers, and R-matrices in 5d $\mathcal{N}=1$ gauge theory**|Saebyeok Jeong et.al.|[2507.15450](http://arxiv.org/abs/2507.15450)|null|
+|**2025-07-21**|**Towards Open-Closed Categorical Enumerative Invariants: Circle-Action Formality Morphism**|Jakob Ulmer et.al.|[2507.15445](http://arxiv.org/abs/2507.15445)|null|
+|**2025-07-21**|**Learning to Gridize: Segment Physical World by Wireless Communication Channel**|Juntao Wang et.al.|[2507.15386](http://arxiv.org/abs/2507.15386)|null|
+|**2025-07-21**|**Robust ISAC Transceiver Beamforming Design under Low-Resolution AD/DA Converters**|Tiantian Xu et.al.|[2507.15373](http://arxiv.org/abs/2507.15373)|null|
+|**2025-07-21**|**Model Simplification through refinement**|Dmitry Brodsky et.al.|[2507.15186](http://arxiv.org/abs/2507.15186)|null|
+|**2025-07-21**|**A Nakayama result for the quantum K theory of homogeneous spaces**|Wei Gu et.al.|[2507.15183](http://arxiv.org/abs/2507.15183)|null|
+|**2025-07-20**|**Performance Analysis of Post-Training Quantization for CNN-based Conjunctival Pallor Anemia Detection**|Sebastian A. Cruz Romero et.al.|[2507.15151](http://arxiv.org/abs/2507.15151)|null|
+|**2025-07-20**|**Design of an Edge-based Portable EHR System for Anemia Screening in Remote Health Applications**|Sebastian A. Cruz Romero et.al.|[2507.15146](http://arxiv.org/abs/2507.15146)|null|
+|**2025-07-20**|**Reconfigurable Antenna Arrays With Tunable Loads: Expanding Solution Space via Coupling Control**|Elio Faddoul et.al.|[2507.15074](http://arxiv.org/abs/2507.15074)|null|
 |**2025-07-18**|**Emergent topology by Landau level mixing in quantum Hall-superconductor nanostructures**|Yuriko Baba et.al.|[2507.14074](http://arxiv.org/abs/2507.14074)|null|
 |**2025-07-18**|**Density Matrix Geometry and Sum Rules**|Guangyue Ji et.al.|[2507.14028](http://arxiv.org/abs/2507.14028)|null|
 |**2025-07-18**|**Search-Optimized Quantization in Biomedical Ontology Alignment**|Oussama Bouaggad et.al.|[2507.13742](http://arxiv.org/abs/2507.13742)|null|
@@ -5035,12 +5045,22 @@
 |**2025-07-08**|**Sample-Efficient Reinforcement Learning Controller for Deep Brain Stimulation in Parkinson's Disease**|Harsh Ravivarapu et.al.|[2507.06326](http://arxiv.org/abs/2507.06326)|null|
 |**2025-07-08**|**QS4D: Quantization-aware training for efficient hardware deployment of structured state-space sequential models**|Sebastian Siegel et.al.|[2507.06079](http://arxiv.org/abs/2507.06079)|null|
 
-<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 ## Think Exit
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**Gemini 2.5 Pro Capable of Winning Gold at IMO 2025**|Yichen Huang et.al.|[2507.15855](http://arxiv.org/abs/2507.15855)|null|
+|**2025-07-21**|**SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction**|Zhixiong Zhang et.al.|[2507.15852](http://arxiv.org/abs/2507.15852)|null|
+|**2025-07-21**|**The Impact of Language Mixing on Bilingual LLM Reasoning**|Yihao Li et.al.|[2507.15849](http://arxiv.org/abs/2507.15849)|null|
+|**2025-07-21**|**GUI-G $^2$ : Gaussian Reward Modeling for GUI Grounding**|Fei Tang et.al.|[2507.15846](http://arxiv.org/abs/2507.15846)|null|
+|**2025-07-21**|**Hierarchical Budget Policy Optimization for Adaptive Reasoning**|Shangke Lyu et.al.|[2507.15844](http://arxiv.org/abs/2507.15844)|null|
+|**2025-07-21**|**Can Your Model Separate Yolks with a Water Bottle? Benchmarking Physical Commonsense Understanding in Video Generation Models**|Enes Sanli et.al.|[2507.15824](http://arxiv.org/abs/2507.15824)|null|
+|**2025-07-21**|**Small LLMs Do Not Learn a Generalizable Theory of Mind via Reinforcement Learning**|Sneheel Sarangi et.al.|[2507.15788](http://arxiv.org/abs/2507.15788)|null|
+|**2025-07-21**|**Stabilizing Knowledge, Promoting Reasoning: Dual-Token Constraints for RLVR**|Jiakang Wang et.al.|[2507.15778](http://arxiv.org/abs/2507.15778)|null|
+|**2025-07-21**|**A Framework for Analyzing Abnormal Emergence in Service Ecosystems Through LLM-based Agent Intention Mining**|Yifan Shen et.al.|[2507.15770](http://arxiv.org/abs/2507.15770)|null|
+|**2025-07-21**|**Interaction as Intelligence: Deep Research With Human-AI Partnership**|Lyumanshan Ye et.al.|[2507.15759](http://arxiv.org/abs/2507.15759)|null|
 |**2025-07-18**|**OpenBEATs: A Fully Open-Source General-Purpose Audio Encoder**|Shikhar Bharadwaj et.al.|[2507.14129](http://arxiv.org/abs/2507.14129)|null|
 |**2025-07-18**|**Quantum Boltzmann Machines using Parallel Annealing for Medical Image Classification**|Daniëlle Schuman et.al.|[2507.14116](http://arxiv.org/abs/2507.14116)|null|
 |**2025-07-18**|**CUDA-L1: Improving CUDA Optimization via Contrastive Reinforcement Learning**|Xiaoya Li et.al.|[2507.14111](http://arxiv.org/abs/2507.14111)|null|
@@ -5122,12 +5142,14 @@
 |**2025-07-09**|**MIND: A Multi-agent Framework for Zero-shot Harmful Meme Detection**|Ziyan Liu et.al.|[2507.06908](http://arxiv.org/abs/2507.06908)|null|
 |**2025-07-10**|**Squeeze the Soaked Sponge: Efficient Off-policy Reinforcement Finetuning for Large Language Model**|Jing Liang et.al.|[2507.06892](http://arxiv.org/abs/2507.06892)|null|
 
-<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 ## Sparse Attention
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**RepILN: Reparameterized Inertial Localization Network**|Shanshan Zhang et.al.|[2507.15293](http://arxiv.org/abs/2507.15293)|null|
+|**2025-07-19**|**GRACE: Generative Recommendation via Journey-Aware Sparse Attention on Chain-of-Thought Tokenization**|Luyi Ma et.al.|[2507.14758](http://arxiv.org/abs/2507.14758)|null|
 |**2025-07-17**|**LoViC: Efficient Long Video Generation with Context Compression**|Jiaxiu Jiang et.al.|[2507.12952](http://arxiv.org/abs/2507.12952)|null|
 |**2025-07-15**|**Streaming 4D Visual Geometry Transformer**|Dong Zhuo et.al.|[2507.11539](http://arxiv.org/abs/2507.11539)|null|
 |**2025-07-16**|**Automated Novelty Evaluation of Academic Paper: A Collaborative Approach Integrating Human and Large Language Model Knowledge**|Wenqing Wu et.al.|[2507.11330](http://arxiv.org/abs/2507.11330)|null|
@@ -5148,12 +5170,13 @@
 |**2025-06-26**|**FOCUS: Internal MLLM Representations for Efficient Fine-Grained Visual Question Answering**|Liangyu Zhong et.al.|[2506.21710](http://arxiv.org/abs/2506.21710)|null|
 |**2025-07-08**|**IPFormer-VideoLLM: Enhancing Multi-modal Video Understanding for Multi-shot Scenes**|Yujia Liang et.al.|[2506.21116](http://arxiv.org/abs/2506.21116)|null|
 
-<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 ## LLM Inference Acceleration
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-07-21**|**GCC: A 3DGS Inference Architecture with Gaussian-Wise and Cross-Stage Conditional Processing**|Minnan Pei et.al.|[2507.15300](http://arxiv.org/abs/2507.15300)|null|
 |**2025-07-18**|**LoopServe: An Adaptive Dual-phase LLM Inference Acceleration System for Multi-Turn Dialogues**|Haoyang Li et.al.|[2507.13681](http://arxiv.org/abs/2507.13681)|null|
 |**2025-07-13**|**Hybrid Quantum-Classical Generative Adversarial Networks with Transfer Learning**|Asma Al-Othni et.al.|[2507.09706](http://arxiv.org/abs/2507.09706)|null|
 |**2025-07-11**|**Hybrid Systolic Array Accelerator with Optimized Dataflow for Edge Large Language Model Inference**|Chun-Ting Chen et.al.|[2507.09010](http://arxiv.org/abs/2507.09010)|null|
@@ -5168,7 +5191,7 @@
 |**2025-06-19**|**DiffO: Single-step Diffusion for Image Compression at Ultra-Low Bitrates**|Chanung Park et.al.|[2506.16572](http://arxiv.org/abs/2506.16572)|**[link](https://github.com/freemasti/diffo)**|
 |**2025-06-19**|**Fast Training-free Perceptual Image Compression**|Ziran Zhu et.al.|[2506.16102](http://arxiv.org/abs/2506.16102)|null|
 
-<p align=right>(<a href=#updated-on-20250721>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250722>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
