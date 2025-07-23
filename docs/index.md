@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Updated on 2025.07.22
+## Updated on 2025.07.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## SLAM
@@ -4943,6 +4943,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**Task-Specific Zero-shot Quantization-Aware Training for Object Detection**|Changhao Li et.al.|[2507.16782](http://arxiv.org/abs/2507.16782)|null|
+|**2025-07-22**|**A photon density wavefunction**|Stéphane Virally et.al.|[2507.16597](http://arxiv.org/abs/2507.16597)|null|
+|**2025-07-22**|**An Experimental Study of Split-Learning TinyML on Ultra-Low-Power Edge/IoT Nodes**|Zied Jenhani et.al.|[2507.16594](http://arxiv.org/abs/2507.16594)|null|
+|**2025-07-22**|**Thermal Hall transport in Kitaev spin liquids**|Tsuyoshi Okubo et.al.|[2507.16558](http://arxiv.org/abs/2507.16558)|null|
+|**2025-07-22**|**Distilled Large Language Model in Confidential Computing Environment for System-on-Chip Design**|Dong Ben et.al.|[2507.16226](http://arxiv.org/abs/2507.16226)|null|
+|**2025-07-22**|**Category $\mathcal{O}$ and asymptotic characters**|Alexis Leroux-Lapierre et.al.|[2507.16215](http://arxiv.org/abs/2507.16215)|null|
+|**2025-07-22**|**Joint Active and Passive Beamforming for Energy-Efficient STARS with Quantization and Element Selection in ISAC Systems**|Li-Hsiang Shen et.al.|[2507.16210](http://arxiv.org/abs/2507.16210)|null|
+|**2025-07-22**|**Design and Implementation of a Lightweight Object Detection System for Resource-Constrained Edge Environments**|Jiyue Jiang et.al.|[2507.16155](http://arxiv.org/abs/2507.16155)|null|
+|**2025-07-21**|**TorchAO: PyTorch-Native Training-to-Serving Model Optimization**|Andrew Or et.al.|[2507.16099](http://arxiv.org/abs/2507.16099)|null|
+|**2025-07-21**|**On the transferability of Sparse Autoencoders for interpreting compressed models**|Suchit Gupte et.al.|[2507.15977](http://arxiv.org/abs/2507.15977)|null|
 |**2025-07-21**|**'t Hooft Anomalies and Defect Conformal Manifolds: Topological Signatures from Modulated Effective Actions**|Christian Copetti et.al.|[2507.15466](http://arxiv.org/abs/2507.15466)|null|
 |**2025-07-21**|**$Q$-operators, $q$-opers, and R-matrices in 5d $\mathcal{N}=1$ gauge theory**|Saebyeok Jeong et.al.|[2507.15450](http://arxiv.org/abs/2507.15450)|null|
 |**2025-07-21**|**Towards Open-Closed Categorical Enumerative Invariants: Circle-Action Formality Morphism**|Jakob Ulmer et.al.|[2507.15445](http://arxiv.org/abs/2507.15445)|null|
@@ -5025,6 +5035,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-22**|**ThinkAct: Vision-Language-Action Reasoning via Reinforced Visual Latent Planning**|Chi-Pin Huang et.al.|[2507.16815](http://arxiv.org/abs/2507.16815)|null|
+|**2025-07-22**|**Semi-off-Policy Reinforcement Learning for Vision-Language Slow-thinking Reasoning**|Junhao Shen et.al.|[2507.16814](http://arxiv.org/abs/2507.16814)|null|
+|**2025-07-22**|**MegaScience: Pushing the Frontiers of Post-Training Datasets for Science Reasoning**|Run-Ze Fan et.al.|[2507.16812](http://arxiv.org/abs/2507.16812)|null|
+|**2025-07-22**|**LingBench++: A Linguistically-Informed Benchmark and Reasoning Framework for Multi-Step and Cross-Cultural Inference with LLMs**|Da-Chen Lian et.al.|[2507.16809](http://arxiv.org/abs/2507.16809)|null|
+|**2025-07-22**|**Beyond Binary Rewards: Training LMs to Reason About Their Uncertainty**|Mehul Damani et.al.|[2507.16806](http://arxiv.org/abs/2507.16806)|null|
+|**2025-07-22**|**Agentar-Fin-R1: Enhancing Financial Intelligence through Domain Expertise, Training Efficiency, and Advanced Reasoning**|Yanjun Zheng et.al.|[2507.16802](http://arxiv.org/abs/2507.16802)|null|
+|**2025-07-22**|**Beyond Context Limits: Subconscious Threads for Long-Horizon Reasoning**|Hongyin Luo et.al.|[2507.16784](http://arxiv.org/abs/2507.16784)|null|
+|**2025-07-22**|**When LLMs Copy to Think: Uncovering Copy-Guided Attacks in Reasoning LLMs**|Yue Li et.al.|[2507.16773](http://arxiv.org/abs/2507.16773)|null|
+|**2025-07-22**|**Multi-RIS-Empowered Communication Systems: Capacity Analysis and Optimization**|Aris L. Moustakas et.al.|[2507.16767](http://arxiv.org/abs/2507.16767)|null|
+|**2025-07-22**|**Zebra-CoT: A Dataset for Interleaved Vision Language Reasoning**|Ang Li et.al.|[2507.16746](http://arxiv.org/abs/2507.16746)|null|
 |**2025-07-21**|**Gemini 2.5 Pro Capable of Winning Gold at IMO 2025**|Yichen Huang et.al.|[2507.15855](http://arxiv.org/abs/2507.15855)|null|
 |**2025-07-21**|**SeC: Advancing Complex Video Object Segmentation via Progressive Concept Construction**|Zhixiong Zhang et.al.|[2507.15852](http://arxiv.org/abs/2507.15852)|null|
 |**2025-07-21**|**The Impact of Language Mixing on Bilingual LLM Reasoning**|Yihao Li et.al.|[2507.15849](http://arxiv.org/abs/2507.15849)|null|
@@ -5146,7 +5166,8 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2025-07-21**|**GCC: A 3DGS Inference Architecture with Gaussian-Wise and Cross-Stage Conditional Processing**|Minnan Pei et.al.|[2507.15300](http://arxiv.org/abs/2507.15300)|null|
+|**2025-07-21**|**ARTEMIS observations of electrostatic shocks inside the lunar wake**|Terry Z. Liu et.al.|[2507.16084](http://arxiv.org/abs/2507.16084)|null|
+|**2025-07-22**|**GCC: A 3DGS Inference Architecture with Gaussian-Wise and Cross-Stage Conditional Processing**|Minnan Pei et.al.|[2507.15300](http://arxiv.org/abs/2507.15300)|null|
 |**2025-07-18**|**LoopServe: An Adaptive Dual-phase LLM Inference Acceleration System for Multi-Turn Dialogues**|Haoyang Li et.al.|[2507.13681](http://arxiv.org/abs/2507.13681)|null|
 |**2025-07-13**|**Hybrid Quantum-Classical Generative Adversarial Networks with Transfer Learning**|Asma Al-Othni et.al.|[2507.09706](http://arxiv.org/abs/2507.09706)|null|
 |**2025-07-11**|**Hybrid Systolic Array Accelerator with Optimized Dataflow for Edge Large Language Model Inference**|Chun-Ting Chen et.al.|[2507.09010](http://arxiv.org/abs/2507.09010)|null|
